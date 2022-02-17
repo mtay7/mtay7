@@ -1,6 +1,6 @@
 <!-- Header -->
 
-<h1 align ='center'> Hello i'm <a href="#">Hottay</a>  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> </h1>
+<h1 align ='center'> Hello, i'm <a href="#">Hottay</a>  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> </h1>
 
 <p> 
 16 y.o at the moment <br>
