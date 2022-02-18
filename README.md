@@ -1,6 +1,6 @@
 <!-- Header -->
 
-<h1 align ='center'> Hello, i'm <a href="#">Hottay</a>  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> </h1>
+<h1 align ='center'> Hello, i'm <a href="#">Mtay</a>  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> </h1>
 
 <p> 
 >16 y.o at the moment <br>
@@ -37,5 +37,5 @@
 
 <h2>🧪 Statistics </h2>
 
-![Hottay's GitHub stats](https://github-readme-stats.vercel.app/api?username=hottay&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hottay&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Mtay's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtay7&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtay7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
