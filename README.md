@@ -10,18 +10,20 @@
 
 <h2>🖊️ Social</h2>
  
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![YouTube][3.3]][3] 
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![YouTube][3.3]][3]  [!Reddit][4.4][4]
 
 <!-- Icons -->
 [1.2]: https://img.icons8.com/nolan/50/twitter.png (Twitter icon)
 [2.2]: https://img.icons8.com/nolan/50/linkedin.png (LinkedIn)
-[3.3]: https://img.icons8.com/nolan/50/youtube-play.png
+[3.3]: https://img.icons8.com/nolan/50/youtube-play.png (YouTube)
+[4.4]: https://img.icons8.com/nolan/64/reddit.png (Reddit)
 
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/
 [2]: https://www.linkedin.com/in/maty%C3%A1%C5%A1-%C4%8Dervinka-b45446232/
 [3]: https://www.youtube.com/channel/UCLdTKoFmk01uk0B1J3OCkNA
+[4]: https://www.reddit.com/user/Mtay___
 
 <h2>🛠️ Technologies</h2>
 
